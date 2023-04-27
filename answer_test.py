@@ -1,5 +1,5 @@
 import pytest
-import test as answer
+import answer
 
 class TestAnswer():
     __correct__ = 0
